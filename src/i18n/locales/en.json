@@ -1,0 +1,308 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "contact": "Contact",
+    "tastings": "Tastings"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Discover the passion behind La Dolores",
+    "history": {
+      "title": "Our History",
+      "content": "La Dolores was born from a family tradition that spans several generations. Since our beginnings, we have been dedicated to the artisanal production of premium beverages, keeping alive the essence and secrets passed down through time."
+    },
+    "values": {
+      "title": "Our Values",
+      "tradition": {
+        "title": "Tradition",
+        "description": "We keep alive the traditional recipes and methods that have made La Dolores unique."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "We carefully select each ingredient to ensure excellence in every bottle."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We combine tradition with modern techniques to constantly improve our products."
+      }
+    },
+    "process": {
+      "title": "Our Process",
+      "content": "Each La Dolores product is the result of a meticulous production process. From the selection of raw materials to the final bottling, each step is carried out with dedication and attention to detail."
+    },
+    "team": {
+      "title": "Our Team",
+      "member1": {
+        "name": "María García",
+        "position": "Master Craftswoman",
+        "description": "With over 20 years of experience in vermouth and liquor production."
+      },
+      "member2": {
+        "name": "Juan Rodríguez",
+        "position": "Sommelier",
+        "description": "Expert in pairings and new product development."
+      },
+      "member3": {
+        "name": "Ana Martínez",
+        "position": "Quality Control",
+        "description": "Ensures excellence in every production batch."
+      }
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Discover our premium beverage selection",
+    "categories": {
+      "all": "All Products",
+      "vermut": "Vermouth",
+      "spritz": "Spritz",
+      "vino_tinto": "Red Wine",
+      "vino_blanco": "White Wine",
+      "mojito": "Mojito",
+      "sangria": "Sangria",
+      "cava": "Cava"
+    },
+    "outOfStock": "Out of Stock",
+    "lowStock": "Only {{count}} units left!",
+    "addToCart": "Add to Cart - {{price}}",
+    "noFormatsAvailable": "No formats available",
+    "availableFormats": "Available formats",
+    "features": "Features",
+    "awards": "Awards & Recognition",
+    "about": "About this Product",
+    "servingSuggestions": "Serving Suggestions",
+    "pairings": "Recommended Pairings",
+    "formats": "Available Formats",
+    "backToProducts": "Back to Products",
+    "notFound": "Product not found",
+    "vermutRojo": {
+      "shortDescription": "Our artisanal red vermouth, crafted with a careful selection of aromatic herbs and spices. A traditional and balanced flavor that captures the essence of our legacy."
+    },
+    "vermutBlanco": {
+      "shortDescription": "A smooth and balanced white vermouth with citrus and herbal notes. Perfect for aperitif or as a base for refreshing cocktails."
+    },
+    "vinoTinto": {
+      "shortDescription": "Aged red wine with notes of ripe red fruits, spices, and a touch of oak. An elegant wine that reflects our terroir."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "La Dolores",
+      "subtitle": "Tradition and passion in every bottle",
+      "cta": "Discover our products"
+    },
+    "about": {
+      "title": "Our History",
+      "description": "Since 1800, La Dolores has been synonymous with quality and tradition in premium beverage crafting. Discover our history and commitment to excellence that sets us apart.",
+      "tradition": {
+        "title": "Tradition",
+        "description": "Keeping traditional recipes and methods alive"
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "Careful selection of each ingredient"
+      },
+      "yearsFounded": "Since 1800",
+      "cta": "Learn our history"
+    },
+    "featuredProducts": {
+      "title": "Our Products",
+      "subtitle": "Discover our premium beverage selection",
+      "vermutRojo": {
+        "shortDescription": "Our artisanal red vermouth, crafted with a careful selection of aromatic herbs and spices. A traditional and balanced flavor that captures the essence of our legacy."
+      },
+      "vermutBlanco": {
+        "shortDescription": "A smooth and balanced white vermouth with citrus and herbal notes. Perfect for aperitif or as a base for refreshing cocktails."
+      },
+      "vinoTinto": {
+        "shortDescription": "Aged red wine with notes of ripe red fruits, spices, and a touch of oak. An elegant wine that reflects our terroir."
+      }
+    },
+    "spotlight": {
+      "title": "Featured Products",
+      "subtitle": "Discover the authentic taste of aperitif",
+      "vermut": {
+        "title": "Artisanal Vermouth",
+        "description": "Our artisanal vermouth, crafted following the traditional recipe with a careful selection of aromatic herbs and spices.",
+        "features": [
+          "Artisanal crafting",
+          "Selected aromatic herbs",
+          "Traditional and balanced flavor"
+        ],
+        "cta": "Discover Our Vermouth"
+      },
+      "aperol": {
+        "title": "Aperol Spritz",
+        "description": "The quintessential Italian aperitif, perfect for celebrations and social gatherings.",
+        "features": [
+          "Original Italian recipe",
+          "Perfect for cocktails",
+          "Refreshing and versatile"
+        ],
+        "cta": "Discover Our Aperol"
+      }
+    }
+  },
+  "features": {
+    "traditional": {
+      "title": "Traditional Crafting",
+      "description": "Artisanal methods passed down through generations"
+    },
+    "quality": {
+      "title": "Superior Quality",
+      "description": "Selection of the finest ingredients"
+    },
+    "taste": {
+      "title": "Unique Taste",
+      "description": "Exclusive recipes that create unforgettable experiences"
+    }
+  },
+  "product": {
+    "details": {
+      "volume": "Volume",
+      "alcohol": "Alcohol",
+      "year": "Year",
+      "ingredients": "Ingredients",
+      "description": "Description",
+      "price": "Price"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "title": "Address",
+        "line1": "123 Main Street",
+        "line2": "50300 Calatayud, Zaragoza"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+34 976 123 456"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@ladolores.com"
+      }
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send message"
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "products": "Products",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "rights": " La Dolores. All rights reserved.",
+    "description": "La Dolores is a company dedicated to the production of artisanal beverages with a passion for quality and tradition."
+  },
+  "history": {
+    "title": "Our History",
+    "subtitle": "A tradition that endures through time",
+    "timeline": {
+      "1": {
+        "title": "The Origins",
+        "description": "It all began at the historic Mesón de la Dolores, an emblematic place in Calatayud",
+        "date": "1800s"
+      },
+      "2": {
+        "title": "Family Tradition",
+        "description": "The recipe has been passed down from generation to generation, preserving its authenticity",
+        "date": "1900s"
+      },
+      "3": {
+        "title": "Innovation and Growth",
+        "description": "Maintaining traditional essence while adapting to modern times",
+        "date": "Present"
+      }
+    },
+    "legacy": {
+      "title": "Our Legacy",
+      "description": "We continue the legacy of quality and tradition that has characterized us since our beginnings"
+    }
+  },
+  "vermutAperol": {
+    "hero": {
+      "title": "Vermouth & Aperol",
+      "subtitle": "Discover our selection of premium aperitifs"
+    },
+    "vermut": {
+      "title": "La Dolores Artisanal Vermouth",
+      "description": "A unique vermouth crafted with a special selection of aromatic herbs and spices",
+      "features": [
+        "Traditional recipe",
+        "Balanced flavor",
+        "Perfect for aperitif",
+        "Artisanal crafting"
+      ]
+    },
+    "aperol": {
+      "title": "Aperol Spritz",
+      "description": "The perfect combination of freshness and Italian tradition",
+      "features": [
+        "Refreshing blend",
+        "Unmistakable taste",
+        "Perfect for any moment",
+        "Original recipe"
+      ]
+    }
+  },
+  "tastings": {
+    "title": "La Dolores Tastings",
+    "subtitle": "Discover the art of tasting with our experts",
+    "shortDescription": "Immerse yourself in a unique tasting experience guided by our expert sommeliers. Discover the secrets and nuances of our premium products.",
+    "description": "At La Dolores, we believe every product has a story to tell. Our tasting sessions are designed to guide you through a unique sensory journey, where you'll discover the nuances, aromas, and flavors that make each of our products special.",
+    "schedule": {
+      "title": "Schedule a Tasting",
+      "subtitle": "Book your tasting experience",
+      "groupSize": "Group size",
+      "date": "Date",
+      "time": "Time",
+      "type": "Tasting type",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "comments": "Additional comments",
+      "submit": "Book Tasting",
+      "success": "Booking successful! We'll contact you soon to confirm the details.",
+      "error": "An error occurred. Please try again."
+    },
+    "types": {
+      "premium": {
+        "name": "Premium Tasting",
+        "description": "Complete experience with all our premium products",
+        "duration": "2 hours",
+        "price": "€45 per person"
+      },
+      "vermouth": {
+        "name": "Vermouth Tasting",
+        "description": "Discover our selection of artisanal vermouths",
+        "duration": "1.5 hours",
+        "price": "€30 per person"
+      },
+      "wine": {
+        "name": "Wine Tasting",
+        "description": "Explore our collection of select wines",
+        "duration": "1.5 hours",
+        "price": "€35 per person"
+      }
+    },
+    "features": {
+      "expert": "Guided by expert sommeliers",
+      "products": "Premium product selection",
+      "pairing": "Pairing included",
+      "certificate": "Participation certificate",
+      "discount": "10% discount on subsequent purchases"
+    }
+  },
+  "common": {
+    "learnMore": "Learn more"
+  }
+}

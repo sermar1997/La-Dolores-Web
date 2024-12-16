@@ -1,0 +1,308 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "about": "Sobre Nosotros",
+    "contact": "Contacto",
+    "tastings": "Catas"
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Descubre la pasión detrás de La Dolores",
+    "history": {
+      "title": "Nuestra Historia",
+      "content": "La Dolores nace de una tradición familiar que se remonta a varias generaciones. Desde nuestros inicios, nos hemos dedicado a la elaboración artesanal de bebidas premium, manteniendo viva la esencia y los secretos transmitidos a través del tiempo."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "tradition": {
+        "title": "Tradición",
+        "description": "Mantenemos vivas las recetas y métodos tradicionales que han hecho única a La Dolores."
+      },
+      "quality": {
+        "title": "Calidad",
+        "description": "Seleccionamos cuidadosamente cada ingrediente para garantizar la excelencia en cada botella."
+      },
+      "innovation": {
+        "title": "Innovación",
+        "description": "Combinamos la tradición con técnicas modernas para mejorar constantemente nuestros productos."
+      }
+    },
+    "process": {
+      "title": "Nuestro Proceso",
+      "content": "Cada producto de La Dolores es el resultado de un meticuloso proceso de elaboración. Desde la selección de las materias primas hasta el embotellado final, cada paso se realiza con dedicación y atención al detalle."
+    },
+    "team": {
+      "title": "Nuestro Equipo",
+      "member1": {
+        "name": "María García",
+        "position": "Maestra Elaboradora",
+        "description": "Con más de 20 años de experiencia en la elaboración de vermuts y licores."
+      },
+      "member2": {
+        "name": "Juan Rodríguez",
+        "position": "Sumiller",
+        "description": "Experto en maridajes y desarrollo de nuevos productos."
+      },
+      "member3": {
+        "name": "Ana Martínez",
+        "position": "Control de Calidad",
+        "description": "Garantiza la excelencia en cada lote de producción."
+      }
+    }
+  },
+  "products": {
+    "title": "Nuestros Productos",
+    "subtitle": "Descubre nuestra selección de bebidas premium",
+    "categories": {
+      "all": "Todos los Productos",
+      "vermut": "Vermut",
+      "spritz": "Spritz",
+      "vino_tinto": "Vino Tinto",
+      "vino_blanco": "Vino Blanco",
+      "mojito": "Mojito",
+      "sangria": "Sangría",
+      "cava": "Cava"
+    },
+    "awards": "Premios y Reconocimientos",
+    "pairings": "Maridajes Recomendados",
+    "about": "Sobre este Producto",
+    "servingSuggestions": "Sugerencias de Servicio",
+    "formats": "Formatos Disponibles",
+    "features": "Características",
+    "outOfStock": "Agotado",
+    "lowStock": "¡Solo {{count}} unidades!",
+    "addToCart": "Añadir al carrito - {{price}}",
+    "noFormatsAvailable": "No hay formatos disponibles",
+    "availableFormats": "Formatos disponibles",
+    "backToProducts": "Volver a Productos",
+    "notFound": "Producto no encontrado",
+    "vermutRojo": {
+      "shortDescription": "Nuestro vermut rojo artesanal, elaborado con una cuidadosa selección de hierbas aromáticas y especias. Un sabor tradicional y equilibrado que captura la esencia de nuestro legado."
+    },
+    "vermutBlanco": {
+      "shortDescription": "Un vermut blanco suave y equilibrado, con notas cítricas y herbales. Perfecto para el aperitivo o como base para cócteles refrescantes."
+    },
+    "vinoTinto": {
+      "shortDescription": "Vino tinto de crianza con notas a frutos rojos maduros, especias y un toque de roble. Un vino elegante que refleja nuestro terroir."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "La Dolores",
+      "subtitle": "Tradición y pasión en cada botella",
+      "cta": "Descubre nuestros productos"
+    },
+    "about": {
+      "title": "Nuestra Historia",
+      "description": "Desde 1800, La Dolores ha sido sinónimo de calidad y tradición en la elaboración de bebidas premium. Descubre nuestra historia y el compromiso con la excelencia que nos distingue.",
+      "tradition": {
+        "title": "Tradición",
+        "description": "Mantenemos vivas las recetas y métodos tradicionales"
+      },
+      "quality": {
+        "title": "Calidad",
+        "description": "Selección cuidadosa de cada ingrediente"
+      },
+      "yearsFounded": "Desde 1800",
+      "cta": "Conoce nuestra historia"
+    },
+    "featuredProducts": {
+      "title": "Nuestros Productos",
+      "subtitle": "Descubre nuestra selección de bebidas premium",
+      "vermutRojo": {
+        "shortDescription": "Nuestro vermut rojo artesanal, elaborado con una cuidadosa selección de hierbas aromáticas y especias. Un sabor tradicional y equilibrado que captura la esencia de nuestro legado."
+      },
+      "vermutBlanco": {
+        "shortDescription": "Un vermut blanco suave y equilibrado, con notas cítricas y herbales. Perfecto para el aperitivo o como base para cócteles refrescantes."
+      },
+      "vinoTinto": {
+        "shortDescription": "Vino tinto de crianza con notas a frutos rojos maduros, especias y un toque de roble. Un vino elegante que refleja nuestro terroir."
+      }
+    },
+    "spotlight": {
+      "title": "Productos Destacados",
+      "subtitle": "Descubre el auténtico sabor del aperitivo",
+      "vermut": {
+        "title": "Vermut Artesanal",
+        "description": "Nuestro vermut artesanal, elaborado siguiendo la receta tradicional con una cuidadosa selección de hierbas aromáticas y especias.",
+        "features": [
+          "Elaboración artesanal",
+          "Hierbas aromáticas seleccionadas",
+          "Sabor tradicional y equilibrado"
+        ],
+        "cta": "Descubre Nuestro Vermut"
+      },
+      "aperol": {
+        "title": "Aperol Spritz",
+        "description": "El aperitivo italiano por excelencia, perfecto para momentos de celebración y encuentros sociales.",
+        "features": [
+          "Receta original italiana",
+          "Perfecto para cócteles",
+          "Refrescante y versátil"
+        ],
+        "cta": "Descubre Nuestro Aperol"
+      }
+    }
+  },
+  "features": {
+    "traditional": {
+      "title": "Elaboración Tradicional",
+      "description": "Métodos artesanales transmitidos por generaciones"
+    },
+    "quality": {
+      "title": "Calidad Superior",
+      "description": "Selección de los mejores ingredientes"
+    },
+    "taste": {
+      "title": "Sabor Único",
+      "description": "Recetas exclusivas que crean experiencias inolvidables"
+    }
+  },
+  "product": {
+    "details": {
+      "volume": "Volumen",
+      "alcohol": "Alcohol",
+      "year": "Año",
+      "ingredients": "Ingredientes",
+      "description": "Descripción",
+      "price": "Precio"
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "info": {
+      "title": "Información de Contacto",
+      "address": {
+        "title": "Dirección",
+        "line1": "Calle Mayor, 123",
+        "line2": "50300 Calatayud, Zaragoza"
+      },
+      "phone": {
+        "title": "Teléfono",
+        "value": "+34 976 123 456"
+      },
+      "email": {
+        "title": "Correo electrónico",
+        "value": "info@ladolores.com"
+      }
+    },
+    "form": {
+      "title": "Envíanos un Mensaje",
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje"
+    }
+  },
+  "footer": {
+    "company": "Empresa",
+    "products": "Productos",
+    "contact": "Contacto",
+    "followUs": "Síguenos",
+    "rights": " La Dolores. Todos los derechos reservados.",
+    "description": "La Dolores es una empresa dedicada a la elaboración de bebidas artesanales con una pasión por la calidad y la tradición."
+  },
+  "history": {
+    "title": "Nuestra Historia",
+    "subtitle": "Una tradición que perdura en el tiempo",
+    "timeline": {
+      "1": {
+        "title": "Los Orígenes",
+        "description": "Todo comenzó en el histórico Mesón de la Dolores, un lugar emblemático de Calatayud",
+        "date": "1800s"
+      },
+      "2": {
+        "title": "Tradición Familiar",
+        "description": "La receta se ha transmitido de generación en generación, preservando su autenticidad",
+        "date": "1900s"
+      },
+      "3": {
+        "title": "Innovación y Crecimiento",
+        "description": "Manteniendo la esencia tradicional mientras nos adaptamos a los nuevos tiempos",
+        "date": "Actualidad"
+      }
+    },
+    "legacy": {
+      "title": "Nuestro Legado",
+      "description": "Continuamos el legado de calidad y tradición que nos caracteriza desde nuestros inicios"
+    }
+  },
+  "vermutAperol": {
+    "hero": {
+      "title": "Vermut & Aperol",
+      "subtitle": "Descubre nuestra selección de aperitivos premium"
+    },
+    "vermut": {
+      "title": "Vermut Artesanal La Dolores",
+      "description": "Un vermut único elaborado con una selección especial de hierbas aromáticas y especias",
+      "features": [
+        "Receta tradicional",
+        "Sabor equilibrado",
+        "Perfecto para aperitivo",
+        "Elaboración artesanal"
+      ]
+    },
+    "aperol": {
+      "title": "Aperol Spritz",
+      "description": "La combinación perfecta de frescura y tradición italiana",
+      "features": [
+        "Mezcla refrescante",
+        "Sabor inconfundible",
+        "Ideal para cualquier momento",
+        "Receta original"
+      ]
+    }
+  },
+  "tastings": {
+    "title": "Catas La Dolores",
+    "subtitle": "Descubre el arte de la cata con nuestros expertos",
+    "shortDescription": "Sumérgete en una experiencia única de cata guiada por nuestros expertos sumilleres. Descubre los secretos y matices de nuestros productos premium.",
+    "description": "En La Dolores, creemos que cada producto tiene una historia que contar. Nuestras sesiones de cata están diseñadas para guiarte a través de un viaje sensorial único, donde descubrirás los matices, aromas y sabores que hacen especial a cada uno de nuestros productos.",
+    "schedule": {
+      "title": "Agenda tu Cata",
+      "subtitle": "Reserva tu experiencia de cata",
+      "groupSize": "Tamaño del grupo",
+      "date": "Fecha",
+      "time": "Hora",
+      "type": "Tipo de cata",
+      "name": "Nombre",
+      "email": "Email",
+      "phone": "Teléfono",
+      "comments": "Comentarios adicionales",
+      "submit": "Reservar Cata",
+      "success": "¡Reserva realizada con éxito! Te contactaremos pronto para confirmar los detalles.",
+      "error": "Ha ocurrido un error. Por favor, inténtalo de nuevo."
+    },
+    "types": {
+      "premium": {
+        "name": "Cata Premium",
+        "description": "Experiencia completa con todos nuestros productos premium",
+        "duration": "2 horas",
+        "price": "45€ por persona"
+      },
+      "vermouth": {
+        "name": "Cata de Vermuts",
+        "description": "Descubre nuestra selección de vermuts artesanales",
+        "duration": "1.5 horas",
+        "price": "30€ por persona"
+      },
+      "wine": {
+        "name": "Cata de Vinos",
+        "description": "Explora nuestra colección de vinos selectos",
+        "duration": "1.5 horas",
+        "price": "35€ por persona"
+      }
+    },
+    "features": {
+      "expert": "Guiada por expertos sumilleres",
+      "products": "Selección de productos premium",
+      "pairing": "Maridaje incluido",
+      "certificate": "Certificado de participación",
+      "discount": "10% de descuento en compras posteriores"
+    }
+  },
+  "common": {
+    "learnMore": "Saber más"
+  }
+}
